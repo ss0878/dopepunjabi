@@ -6,11 +6,11 @@
   box-sizing: border-box;
 }
 body {
-  padding: 25px;
   background-color: #e1e6ec;
   color: black;
   font-size: 25px;
   position: relative;
+  
 }
 
 button {
@@ -22,6 +22,7 @@ button {
   font-size: 15px;
   border-radius: 10px;
 }
+
 
 
 .links {
@@ -81,7 +82,7 @@ button {
 }
 
 .container img {
-  width: 80%;
+  width: 95%;
   display: inline-block;
 }
 .container h1 {
